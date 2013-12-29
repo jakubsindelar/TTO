@@ -1,0 +1,24 @@
+.navi-nadpis {position:absolute;font-weight:blod;top:80px;height:10; left: 50px}
+.navi-cara {height: 1; background-color:black;}
+.login {position:absolute; top:100;left:600;width:500;height:100; height:300;}
+.button_prihlas {position: absolute;left:100}
+.login-h1 {position: relative;left:40}
+.menu-odkazy {color:red;text-decoration: none}
+.navi-administrace {position:absolute;left:30 ;top:290  ;text-decoration: none; height:1 ;width:200}
+.navi-administrace-clenove {position:absolute;left:0 ;top:350  ;text-decoration: none; width:200;height:0}
+.seznam-clenu {position:absolute;left:600; top:50}
+.seznam-clenu-tabulka {position:relative;left:600;top:-1000;}
+.reg_clenu-div {position:absolute; left:400;top:0;height:-800}
+.reg_clenu-edpole {position:absolute; left:150;}
+.reg_adminu-edpole {position:absolute; left:200;}
+.reg_clenu-seznam-datum {position:absolute; left:210}
+.reg_clenu-rok {position:absolute; left:310}
+.error_opravneni{position:absolute; left:400;top:200;}
+.tab-view_edit-nadpis {position:absolute;left:580; top:0}
+.tab2-view_edit-nadpis {position:absolute;left:1080; top:0}
+.tab-view_edit {position:absolute;left:400; top:50}
+.tab2-view_edit {position:absolute;left:900; top:50}
+.pozadi {position: absolute;width:280px; height:560px;top: 0;left:0}
+.login-form {position:absolute;width: 215px;height:80px; left: 625px;top:145;}
+.login-form-pass {position:absolute;width: 215px;height:80px; left: 625px;top:252}
+.login-background {position:absolute; left: 500px;top:45;width: 450px;height: 362px}
